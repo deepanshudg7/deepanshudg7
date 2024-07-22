@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full-stack developer currently pursuing my master's in Data Analytics<br>I am proficient in JavaScript, Java, Python, R and SQL.<br>I am well versed in frameworks like Angular, React and Springboot<br>
+</br> I am a data scientist with over 5 years of experience in building data-driven solutions </br>
 
 
 ## 🌐 Socials:
