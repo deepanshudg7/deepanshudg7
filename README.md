@@ -52,7 +52,6 @@ With **5+ years of experience**, I specialize in **Machine Learning, Natural Lan
 
 ## 📫 Connect with Me  
 
-🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
 💼 **LinkedIn**: [linkedin.com/in/deepanshu-gupta7](https://linkedin.com/in/deepanshu-gupta7)   
 📧 **Email**: deepanshu.gupta0509@gmail.com  
 
