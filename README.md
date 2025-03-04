@@ -2,7 +2,7 @@
 
 🚀 **Data Scientist | Machine Learning | Generative AI | Big Data**  
 
-With **5+ years of experience**, I specialize in **Machine Learning, Natural Language Processing (NLP), and Generative AI (GenAI)**. My expertise spans across **LLMs, RAG models, cloud computing, and big data analytics**, helping organizations leverage AI for **data-driven decision-making**.  
+With **6+ years of experience**, I specialize in **Machine Learning, Natural Language Processing (NLP), and Generative AI (GenAI)**. My expertise spans across **LLMs, RAG models, cloud computing, and big data analytics**, helping organizations leverage AI for **data-driven decision-making**.  
 
 ---
 
