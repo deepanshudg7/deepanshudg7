@@ -37,7 +37,6 @@ With **6+ years of experience**, I specialize in **Machine Learning, Natural Lan
 
 ✅ **Advanced Proficiency in KNIME Analytics Platform (L2)**  
 ✅ **Google Data Analytics Certification**  
-✅ **Optimization of Inventory by Supplier Selection using TOPSIS Method**  
 ✅ **Meta Front-End Developer Professional Certificate**  
 
 ---
@@ -46,14 +45,13 @@ With **6+ years of experience**, I specialize in **Machine Learning, Natural Lan
 
 🚀 **AI-Based Chat Engine** – Built a real-time AI-powered chatbot using OpenAI API, deployed on AWS.  
 📊 **EV Tariff Prediction** – Developed a machine learning model to forecast electric vehicle tariff trends.  
-🧠 **Precision Medicine Cohort Analysis** – Applied deep learning techniques for pattern detection in precision medicine.  
 
 ---
 
 ## 📫 Connect with Me  
 
 💼 **LinkedIn**: [linkedin.com/in/deepanshu-gupta7](https://linkedin.com/in/deepanshu-gupta7)   
-📧 **Email**: deepanshu.gupta0509@gmail.com  
+📧 **Email**: connect.deepanshugupta@gmail.com 
 
 ---
 
